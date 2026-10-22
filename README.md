@@ -1,2 +1,14 @@
-# CS-250-SDLC
-Software Development Lifecycle
+# Software Development Lifecycle
+# CS 250 Module Eight Journal
+
+# How do I interpret user needs and implement them into a program? How does creating user stories help with this?
+
+I interpret user needs by identifying what the user wants to accomplish and breaking those needs down into specific requirements that can be implemented and tested. User stories help me understand a feature from the user's point of view and explain why that feature is important. For example, in the SNHU Travel project, users needed to select a type of vacation and see matching travel packages. By creating a user story with acceptance criteria, I could identify the available vacation types, the information each package needed to display, and what should happen if no matching packages were available. This helped turn a general request into something that could be developed and tested. I learned that asking questions and clarifying requirements early can prevent misunderstandings and reduce rework later.
+
+# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+
+I approach developing programs by breaking larger problems into smaller, manageable tasks and making sure I understand the requirements before beginning implementation. I also believe testing throughout development is important because it helps identify problems before they become more difficult to fix. Through the SNHU Travel project, I learned how Agile and Scrum support this approach by using a prioritized Product Backlog, user stories, acceptance criteria, and test cases. In my future development work, I hope to incorporate regular feedback, incremental development, and continuous testing. I also want to use Sprint Reviews to evaluate completed work and Sprint Retrospectives to identify what went well and what I can improve. I learned that being flexible when requirements change is important, but changes still need to be communicated, evaluated, and tested so the project stays organized and focused on user needs.
+
+# What does it mean to be a good team member in software development?
+
+Being a good team member in software development means communicating clearly, listening to other people's ideas, meeting responsibilities, and being willing to learn from feedback. It also means asking questions when requirements are unclear instead of making assumptions that could lead to unnecessary work. In Scrum, the Product Owner, Developers, and Scrum Master have different accountabilities, but they need to work together toward a shared goal. My SNHU Travel project helped me understand the importance of keeping requirements, acceptance criteria, and test cases consistent when changes occur. I also learned that a good team member should be honest about challenges, make blockers visible, and respect decisions about the project's priorities and scope. Even when working independently, I can practice these skills by documenting my decisions, writing clear and reproducible tests, and reviewing my work to identify areas for improvement.
